@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2>Hey!</h2>
 
-<!--
-**Jemzzz16/Jemzzz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Jem a junior full stack web developer with _ Nology.
+    Come say hi and let's code!</p>
 
-Here are some ideas to get you started:
+<ul> 
+  <li>Photographer :camera: </li> 
+  <li>Rollerblader :skull:</li> 
+  <li>Clay shooter :gun: </li>
+  <li>Surfer :surfer:</li>
+    
+ <p>    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/jemma-holmes-14b89a10a/"> 
+<img align="left" alt="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> href=""
+
