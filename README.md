@@ -9,8 +9,8 @@
   <li>Clay shooter :gun: </li>
   <li>Surfer :surfer:</li>
     
- <p>    
 
 <img align="left" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/jemma-holmes-14b89a10a/"> 
-<img align="left" alt="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> href=""
+
+<img align="left" alt="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/jemma.j.photography/"> 
 
