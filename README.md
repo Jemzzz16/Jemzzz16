@@ -18,10 +18,6 @@
 
 <img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/jemma.j.photography/"> 
 
-<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="jemmaholmes16@gmail.com">
-<br>
-<br>
-<br>
-
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
+<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="jemmaholmes16@gmail.com">
