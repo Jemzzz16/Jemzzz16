@@ -1,5 +1,7 @@
 <h2>Hey!</h2>
 
+<img src="https://media.giphy.com/media/1AiqIlg1Jfl2tgGzYf/giphy.gif">
+
 <p>I'm Jem a junior full stack web developer with _ Nology.
     Come say hi and let's code!</p>
 
