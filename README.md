@@ -1,4 +1,4 @@
-<h1 align="centre">Hey!</h1>
+<h1 text-align="centre">Hey!</h1>
 
 <img src="https://media.giphy.com/media/1AiqIlg1Jfl2tgGzYf/giphy.gif">
 
