@@ -1,7 +1,7 @@
 <h1 align="center">Hey!</h1>
 
 <div align="center">
-<img src="https://media.giphy.com/media/1AiqIlg1Jfl2tgGzYf/giphy.gif">
+<img src="https://media.giphy.com/media/1AiqIlg1Jfl2tgGzYf/giphy.gif" width="300" height="200">
 </div>
 
 <p align="center">I'm Jem a junior full stack web developer with _ Nology.
