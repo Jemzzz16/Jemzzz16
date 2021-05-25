@@ -6,6 +6,7 @@
     Come say hi and let's code!</p>
 
 <ul align="center"> 
+   <li>Web developer 💻:</li> 
   <li>Photographer :camera: </li> 
   <li>Rollerblader :skull:</li> 
   <li>Clay shooter :gun: </li>
