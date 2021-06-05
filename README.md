@@ -16,7 +16,9 @@
 
 <br>
 
-[![Jem's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemzzz16)](https://github.com/jemzzz16/github-readme-stats)
+<a href="https://github.com/wwirving/jemzzz16">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemzzz16&show_icons=true&theme=dark" />
+</a>
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
