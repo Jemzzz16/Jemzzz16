@@ -4,10 +4,10 @@
 <img src="https://media.giphy.com/media/1AiqIlg1Jfl2tgGzYf/giphy.gif" width="300" height="200">
 </div>
 
-<h4 align="center">I'm Jem a junior full stack web developer with _ Nology.
+<h4 align="center">I'm Jem a junior full stack developer with _ Nology.
     Come say hi and let's code!</h3>
 
-<ul align="center"> 
+<ul style='none' align="center"> 
    <li>Web developer 💻:</li> 
   <li>Photographer :camera: </li> 
   <li>Rollerblader :skull:</li> 
