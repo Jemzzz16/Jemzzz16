@@ -7,13 +7,13 @@
 <h4 align="center">I'm Jem a junior full stack developer with _ Nology.
     Come say hi and let's code!</h3>
 
-<ul style='none' align="center"> 
-   <li>Web developer 💻:</li> 
-  <li>Photographer :camera: </li> 
-  <li>Rollerblader :skull:</li> 
-  <li>Clay shooter :gun: </li>
-  <li>Surfer :surfer:</li>
-
+<div align="center"> 
+  <p>Web developer 💻:</p> 
+  <p>Photographer :camera: </p> 
+  <p>Rollerblader :skull:</p> 
+  <p>Clay shooter :gun: </p>
+  <p>Surfer :surfer:</p>
+</div>
 <br>
 <p align='center' >
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
